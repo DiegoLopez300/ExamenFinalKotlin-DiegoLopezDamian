@@ -1,5 +1,4 @@
 # ExamenFinalKotlin-DiegoLopezDamian
-# Aplicaciones Móviles - Diego Lopez
 
 # Ejercicio 01
 Lo incorrecto en este codigo era el *val*
@@ -32,9 +31,9 @@ En kotlin se emplea los rangos, no es como en Java
 
 
 # Ejercicio 06
-REVISAR
+Se agrego *{ }* en el bloque de *else*, esto es para que el codigo sea mas claro
 
-<img width="388" height="394" alt="image" src="https://github.com/user-attachments/assets/7e244537-256d-4ee6-acf2-b2f7cd1e1ce5" />
+<img width="398" height="399" alt="image" src="https://github.com/user-attachments/assets/0a341487-dda3-43c6-a51e-4d2822bccde0" />
 
 
 # Ejercicio 07
@@ -50,5 +49,12 @@ Debemos colocar el valor que queremos en *""*, y como es saludo *10* no puede se
 
 
 # Ejercicio 09
+Solo se debe completar el valor que queremos que tenga *nombre*
+
+<img width="436" height="387" alt="image" src="https://github.com/user-attachments/assets/3b825cd0-7518-48d2-ab56-f28f67229a69" />
+
 
 # Ejercicio 10
+No se puede declarar dos veces una variable
+
+<img width="302" height="341" alt="image" src="https://github.com/user-attachments/assets/7a2b7ef7-20a7-4f45-b8e7-eef5cc0d763d" />
